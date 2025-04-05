@@ -29,3 +29,4 @@ This ToDo List App helps users add, track, and remove tasks efficiently, serving
 
 ## NOTE
 - This README is created with help of AI CHATBOTS
+- I know it has some erros,but it runs too,the reason i kept it as it is: because i want to show people what i understood and develop a code according to my understanding,as my logic and understanding will develop i may or may nor update the code.
